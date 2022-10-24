@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+}
+
+h1 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: rgb(69, 14, 207);
+    width: auto;
+}
+
+body {
+    background-color: rgb(186, 241, 241)
+}
+
+ul {
+    font-family: 'Fuzzy Bubbles', cursive;;
+}
+ol {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+p {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
